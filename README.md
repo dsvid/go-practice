@@ -1,1 +1,1 @@
-various Golang learning exercises and bits and pieces
+Golang exercies and practice primarily from https://quii.gitbook.io/learn-go-with-tests
